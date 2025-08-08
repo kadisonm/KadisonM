@@ -8,6 +8,12 @@
 
 ---
 
+### 3D Printing
+
+See my MakerWorld profile and free STLs [here](https://makerworld.com/en/@Kadison).
+
+---
+
 ### Contact Me
 
 Feel free to add me on Discord (@kadisonm)
