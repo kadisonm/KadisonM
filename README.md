@@ -1,6 +1,6 @@
 ### Hello!
 
-🇦🇺 I'm Kadison McLellan, an Australian high school student who aspires to be a software developer.
+🇦🇺 I'm Kadison McLellan, an Australian university student who aspires to be a software developer.
 
 🚀 My biggest goal is to better my everyday life and productivity. I like to make systems and simplify my life because if I can make something as easy as possible for myself, I'm more likely to do it. I mean we optimise code all the time, so why not optimise our life right?
 
