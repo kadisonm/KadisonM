@@ -1,26 +1,24 @@
-### Hello!
+## Hello!
 
 🇦🇺 I'm Kadison McLellan, an Australian university student with an aspiration to become a software engineer.
 
 ---
 
-### KanjiCut
+<img width="286" height="86" alt="kanjicut-brandmark" src="https://github.com/user-attachments/assets/aea9aefc-b315-44f5-99ed-942974d47f61" alt="KanjiCut"/>
 
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/d16cdfba-047e-42b4-8a59-c4a4bff43ec5" />
+KanjiCut is a [website](https://www.kanjicut.com) and [Anki](https://apps.ankiweb.net/) add-on that lets you break down kanji into their individual components and unique keywords. 
 
-[KanjiCut](http://kanjicut.com) is a website and Anki add-on that decomposes Japanese kanji into their smaller parts and displays their attached keywords. This allows for accelerated kanji learning by turning kanji learning into an i+1 experience.
-
-I am current working on [KanjiCut](http://kanjicut.com) (previously [Anki Kanji Splitter](https://github.com/kadisonm/anki-kanji-splitter)) in my free time. Feel free to check them out and give me any feedback!
+I am current working on [KanjiCut](https://github.com/kanjicut) (previously [Anki Kanji Splitter](https://github.com/kadisonm/anki-kanji-splitter)) in my free time. Feel free to check them out and give me any feedback!
 
 ---
 
-### 3D Printing
+## 3D Printing
 
 See my MakerWorld profile and free STLs [here](https://makerworld.com/en/@Kadison).
 
 ---
 
-### Contact Me
+## Contact Me
 
 Feel free to add me on Discord (@kadisonm).
 
