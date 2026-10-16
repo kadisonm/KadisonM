@@ -4,20 +4,6 @@
 
 ---
 
-<img width="286" height="86" alt="kanjicut-brandmark" src="https://github.com/user-attachments/assets/aea9aefc-b315-44f5-99ed-942974d47f61" alt="KanjiCut"/>
-
-KanjiCut is a [website](https://www.kanjicut.com) and [Anki](https://apps.ankiweb.net/) add-on that lets you break down kanji into their individual components and unique keywords. 
-
-I am current working on [KanjiCut](https://github.com/kanjicut) (previously [Anki Kanji Splitter](https://github.com/kadisonm/anki-kanji-splitter)) in my free time. Feel free to check them out and give me any feedback!
-
----
-
-## 3D Printing
-
-See my MakerWorld profile and free STLs [here](https://makerworld.com/en/@Kadison).
-
----
-
 ## Contact Me
 
 Feel free to add me on Discord (@kadisonm).
