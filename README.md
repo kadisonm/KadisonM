@@ -5,8 +5,10 @@
 ---
 
 ## Contact Me
+Send an email to kadison.mclellan@outlook.com
 
-Feel free to add me on Discord (@kadisonm).
+Or feel free to add me on Discord
+@kadisonm
 
 ---
 
