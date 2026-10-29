@@ -49,7 +49,7 @@ MODE:    Hybrid / remote
 <div>
   <a href="https://www.linkedin.com/in/kadison-mclellan"><img src="https://img.shields.io/badge/LinkedIn-066997?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:kadison.mclellan@outlook.com"><img src="https://img.shields.io/badge/Email-066997?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-  <a href="https://discord.gg/dwnRb6S6"><img src="https://img.shields.io/badge/Discord-066997?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <img src="https://img.shields.io/badge/%40kadisonm-066997?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @kadisonm">
 </div>
 
 <div>
