@@ -46,12 +46,15 @@ MODE:    Hybrid / remote
   </tr>
 </table>
 
-<a href="https://www.linkedin.com/in/kadison-mclellan"><img src="https://img.shields.io/badge/LinkedIn-066997?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:kadison.mclellan@outlook.com"><img src="https://img.shields.io/badge/Email-066997?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-<a href="https://discord.gg/dwnRb6S6"><img src="https://img.shields.io/badge/Discord-066997?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<img align="right" src="https://img.shields.io/github/stars/kadisonm?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=222" alt="STARS">
-<img align="right" src="https://img.shields.io/github/followers/kadisonm?style=for-the-badge&logo=github&label=Followers&color=222" alt="FOLLOWERS">
+<div>
+  <a href="https://www.linkedin.com/in/kadison-mclellan"><img src="https://img.shields.io/badge/LinkedIn-066997?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kadison.mclellan@outlook.com"><img src="https://img.shields.io/badge/Email-066997?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+  <a href="https://discord.gg/dwnRb6S6"><img src="https://img.shields.io/badge/Discord-066997?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</div>
 
-<br>
+<div>
+  <img src="https://img.shields.io/github/stars/kadisonm?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=222" alt="STARS">
+  <img src="https://img.shields.io/github/followers/kadisonm?style=for-the-badge&logo=github&label=Followers&color=222" alt="FOLLOWERS">
+</div>
 
 <samp>◆&nbsp;SAVE&nbsp;POINT&nbsp;◆ · Thanks&nbsp;for&nbsp;visiting.</samp>
