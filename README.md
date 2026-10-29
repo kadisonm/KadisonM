@@ -12,7 +12,7 @@
 # LVL 19
 PLAYER:  KADISON
 CLASS:   Game & App Developer
-GUILD:   Adelaide Uni · SE (Hons)
+GUILD:   Adelaide Uni · SE
 REALM:   Adelaide, AU
 QUEST:   Undergrad / grad roles
 MODE:    Hybrid / remote
@@ -51,5 +51,7 @@ MODE:    Hybrid / remote
 <a href="https://discord.gg/dwnRb6S6"><img src="https://img.shields.io/badge/Discord-066997?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <img align="right" src="https://img.shields.io/github/stars/kadisonm?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=222" alt="STARS">
 <img align="right" src="https://img.shields.io/github/followers/kadisonm?style=for-the-badge&logo=github&label=Followers&color=222" alt="FOLLOWERS">
+
+<br>
 
 <samp>◆&nbsp;SAVE&nbsp;POINT&nbsp;◆ · Thanks&nbsp;for&nbsp;visiting.</samp>
